@@ -34,9 +34,7 @@ langchain-text-splitters 1.1.0
 
 
 Run modes:
-  python cybersec_ai_chatbot.py --mode serve
-  python cybersec_ai_chatbot.py --mode train
-  python cybersec_ai_chatbot.py --mode eval
+  python mycyberbot.py
 """
 import os
 import psutil
