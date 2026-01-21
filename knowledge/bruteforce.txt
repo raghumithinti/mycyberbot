@@ -1,0 +1,1 @@
+Brute force attacks involve repeated login attempts to gain unauthorized access.

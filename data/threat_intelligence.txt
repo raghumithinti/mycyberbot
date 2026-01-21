@@ -1,0 +1,4 @@
+SQL injection attacks target unsanitized database queries.
+Phishing emails often impersonate trusted brands.
+Ransomware encrypts critical systems and demands payment.
+Multiple failed SSH logins.

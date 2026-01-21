@@ -1,0 +1,6 @@
+text,label
+User login success on first attempt,benign
+Multiple failed SSH attempts,malicious
+Port scan detected from external IP,malicious
+Normal DNS resolution activity,benign
+SQL injection attacks,critical
